@@ -53,3 +53,11 @@ critique: build/nda.json | $(CRITIQUE) $(JSON)
 
 clean:
 	rm -rf build
+
+DOCKER_TAG=waypoint-one-way-build
+
+docker:
+	bash -c "trap 'docker rm $(DOCKER_TAG)' EXIT; \
+		docker build -t $(DOCKER_TAG) .; \
+		docker run --name $(DOCKER_TAG) $(DOCKER_TAG); \
+		docker cp $(DOCKER_TAG):/workdir/build ."
