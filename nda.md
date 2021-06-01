@@ -1,6 +1,5 @@
 ---
-title: Guestbook NDA
-edition: Development Draft
+title: Guestbook NDA 1.0.0
 ---
 
 # One-Way Nondisclosure
