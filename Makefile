@@ -8,8 +8,9 @@ JSON=$(NPM_BIN)/json
 
 FORMATS=docx pdf odt rtf
 PAPERS=letter a4
+VARIANTS=long short
 
-all: $(foreach format,$(FORMATS),$(foreach paper,$(PAPERS),$(addsuffix .$(format),$(addsuffix -$(paper),build/nda)))) build/nda.html
+all: $(foreach variant,$(VARIANTS),$(foreach paper,$(PAPERS),$(foreach format,$(FORMATS),$(addsuffix -$(variant)-$(paper).$(format),build/nda)))) build/nda.html
 
 DOCX_FLAGS= --styles styles.json -n outline --left-align-title --indent-margins --smartify
 
@@ -19,7 +20,10 @@ build/terms-letter.docx: build/nda.json styles.json | build $(DOCX) $(JSON)
 build/terms-a4.docx: build/nda.json styles.json | build $(DOCX) $(JSON)
 	$(JSON) form < $< | $(DOCX) --a4 $(DOCX_FLAGS) --title "$(shell $(JSON) frontMatter.title < $<)" --edition "$(shell $(JSON) frontMatter.edition < $<)" > $@ /dev/stdin
 
-build/nda-%.docx: certificate-%.docx build/terms-%.docx signatures-%.docx
+build/nda-long-%.docx: certificate-%.docx build/terms-%.docx signatures-%.docx
+	docxcompose $^ -o $@
+
+build/nda-short-%.docx: springboard-%.docx signatures-%.docx
 	docxcompose $^ -o $@
 
 build/%.json: %.md | build $(COMMONMARK)
