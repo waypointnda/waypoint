@@ -1,5 +1,5 @@
 ---
-title: The Waypoint One-Way NDA
+title: Guestbook NDA
 edition: Development Draft
 ---
 
@@ -171,7 +171,7 @@ Either party may terminate this agreement early by thirty calendar days' prior w
 
 ## Survival
 
-Obligations under [Confidentiality Obligations](#confidentiality-obligations) for _Confidential Information_ disclosed during the term survive the term of this agreement as follows: 
+Obligations under [Confidentiality Obligations](#confidentiality-obligations) for _Confidential Information_ disclosed during the term survive the term of this agreement as follows:
 
 - Obligations for _Confidential Information_ that _Receiving Party_ knew or reasonably should have known constituted a trade secret survive as long as the _Confidential Information_ remains a trade secret.
 
