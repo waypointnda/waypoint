@@ -8,7 +8,7 @@ title: The {{{brand}}} NDA {{{version}}}
 
 # Purpose
 
-The parties anticipate that _Disclosing Party_ will disclose _Confidential Information_ to _Receiving Party_ for the purpose on the accompanying standard form certificate (the **Purpose**).
+The parties anticipate that _Disclosing Party_ will disclose _Confidential Information_ to _Receiving Party_ for the stated purpose (the **Purpose**).
 
 # Confidential Information
 
@@ -162,7 +162,7 @@ If this agreement is governed by United States law:
 
 ## Expiration
 
-This agreement will terminate automatically after the term on the accompanying standard form certificate, or if none is specified, after one year.
+This agreement will terminate automatically after the stated term, or if none is stated, after one year.
 
 ## Termination by Notice
 
@@ -184,7 +184,7 @@ Neither party may assign any right or delegate any obligation under this agreeme
 
 ## Dispute Resolution
 
-The governing law on the accompanying standard form certificate will govern all aspects of this agreement.  The parties shall bring legal proceedings related to this agreement only in the national and any national-subdivision courts located in the forum for disputes on the accompanying standard form certificate, or if none is specified, within the jurisdiction whose law governs this agreement.  The parties consent to the exclusive jurisdiction of those courts and waive any objection that legal proceedings brought there are brought in an inconvenient forum.  The parties may enforce judgments of those courts in any appropriate forum.
+The stated governing law will govern all aspects of this agreement.  The parties shall bring legal proceedings related to this agreement only in the national and any national-subdivision courts located in the stated forum for disputes, or if none is stated, within the jurisdiction whose law governs this agreement.  The parties consent to the exclusive jurisdiction of those courts and waive any objection that legal proceedings brought there are brought in an inconvenient forum.  The parties may enforce judgments of those courts in any appropriate forum.
 
 ## Legal Relationship
 
