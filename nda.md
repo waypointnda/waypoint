@@ -1,5 +1,5 @@
 ---
-title: Guestbook NDA 1.0.0
+title: The {{{brand}}} NDA {{{version}}}
 ---
 
 # One-Way Nondisclosure

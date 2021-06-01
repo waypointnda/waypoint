@@ -1,0 +1,30 @@
+#!/bin/sh
+set -e
+
+FILE="$1"
+
+if ! [ -f "$FILE" ]; then
+  echo "Usage: <file.docx>"
+  exit 1
+fi
+
+REALPATH="$(realpath "$FILE")"
+PWD="$(pwd)"
+JSON="$PWD/node_modules/.bin/json"
+VIEW="$PWD/view.json"
+
+TMP="$(mktemp -d)"
+cleanup () {
+  rm -rf "$TMP"
+}
+trap cleanup EXIT
+
+unzip -q "$REALPATH" -d "$TMP"
+KEYS="$($JSON -k -a < "$VIEW")"
+DOCUMENT="$TMP/word/document.xml"
+for key in $KEYS; do
+  value="$($JSON "$key" < "$VIEW")"
+  sed -i "s/{{{$key}}}/$value/g" "$DOCUMENT"
+done
+cd "$TMP"
+zip -q -r "$REALPATH" ./*

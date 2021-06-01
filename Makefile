@@ -5,6 +5,7 @@ HTML=$(NPM_BIN)/commonform-html
 LINT=$(NPM_BIN)/commonform-lint
 CRITIQUE=$(NPM_BIN)/commonform-critique
 JSON=$(NPM_BIN)/json
+MUSTACHE=$(NPM_BIN)/mustache
 
 FORMATS=docx pdf odt rtf
 PAPERS=letter a4
@@ -20,14 +21,22 @@ build/terms-letter.docx: build/nda.json styles.json | build $(DOCX) $(JSON)
 build/terms-a4.docx: build/nda.json styles.json | build $(DOCX) $(JSON)
 	$(JSON) form < $< | $(DOCX) --a4 $(DOCX_FLAGS) --title "$(shell $(JSON) frontMatter.title < $<)" --edition "$(shell $(JSON) frontMatter.edition < $<)" > $@ /dev/stdin
 
-build/nda-long-%.docx: certificate-%.docx build/terms-%.docx signatures-%.docx
+build/nda-long-%.docx: build/certificate-%.docx build/terms-%.docx signatures-%.docx
 	docxcompose $^ -o $@
 
-build/nda-short-%.docx: springboard-%.docx signatures-%.docx
+build/nda-short-%.docx: build/springboard-%.docx signatures-%.docx
 	docxcompose $^ -o $@
 
-build/%.json: %.md | build $(COMMONMARK)
-	$(COMMONMARK) parse $< > $@
+build/certificate-%.docx: certificate-%.docx view.json docxreplace | build
+	cp $< $@
+	./docxreplace "$@"
+
+build/springboard-%.docx: springboard-%.docx view.json docxreplace | build
+	cp $< $@
+	./docxreplace "$@"
+
+build/%.json: %.md view.json | build $(MUSTACHE) $(COMMONMARK)
+	$(MUSTACHE) view.json  $< | $(COMMONMARK) parse > $@
 
 build/%.html: build/%.json | $(HTML)
 	$(JSON) form < $< | $(HTML) --html5 --lists --ids --smartify --title "$(shell $(JSON) frontMatter.title < $<)" --edition "$(shell $(JSON) frontMatter.edition < $<)" > $@
@@ -44,7 +53,7 @@ build/%.rtf: build/%.docx
 build:
 	mkdir -p build
 
-$(COMMONMARK) $(DOCX) $(HTML) $(JSON):
+$(COMMONMARK) $(DOCX) $(HTML) $(JSON) $(MUSTACHE):
 	npm ci
 
 .PHONY: lint critique clean
