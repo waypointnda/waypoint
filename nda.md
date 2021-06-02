@@ -1,14 +1,10 @@
----
-title: The {{{brand}}} NDA {{{version}}}
----
+# Mutual Nondisclosure
 
-# One-Way Nondisclosure
-
-**Disclosing Party** may disclose _Confidential Information_ to **Receiving Party**.  This agreement does not cover information disclosed by _Receiving Party_.
+**Disclosing Party** describes each party with respect to _Confidential Information_ it discloses to the other party.  **Receiving Party** describes each party with respect to _Confidential Information_ it receives from the other party.
 
 # Purpose
 
-The parties anticipate that _Disclosing Party_ will disclose _Confidential Information_ to _Receiving Party_ for the stated purpose (the **Purpose**).
+The parties anticipate disclosure of _Confidential Information_ for the purpose on the accompanying standard form certificate (the **Purpose**).
 
 # Confidential Information
 
@@ -86,7 +82,7 @@ The following obligations apply when the law requires disclosure of _Confidentia
 
 If legally permitted, _Receiving Party_ shall promptly notify _Disclosing Party_ of the nature of the requirement and the _Confidential Information_ affected.  If practical, _Receiving Party_ shall give notice quickly enough to afford _Disclosing Party_ practical chance to start a proceeding to protect the confidentiality of the _Confidential Information_.  On _Disclosing Party_ request, _Receiving Party_ shall cooperate with _Disclosing Party_ in any such proceeding by providing reasonable assistance.
 
-### Reimburse Expenses of Cooperation
+###  Reimburse Expenses of Cooperation
 
 _Disclosing Party_ shall reimburse _Receiving Party_'s reasonable out-of-pocket expenses of cooperating in any proceeding described in [Give Notice of Required Disclosure](#give-notice-of-required-disclosure).
 
@@ -162,7 +158,7 @@ If this agreement is governed by United States law:
 
 ## Expiration
 
-This agreement will terminate automatically after the stated term, or if none is stated, after one year.
+This agreement will terminate automatically after the term on the accompanying standard form certificate, or if none is specified, after one year.
 
 ## Termination by Notice
 
@@ -184,7 +180,7 @@ Neither party may assign any right or delegate any obligation under this agreeme
 
 ## Dispute Resolution
 
-The stated governing law will govern all aspects of this agreement.  The parties shall bring legal proceedings related to this agreement only in the national and any national-subdivision courts located in the stated forum for disputes, or if none is stated, within the jurisdiction whose law governs this agreement.  The parties consent to the exclusive jurisdiction of those courts and waive any objection that legal proceedings brought there are brought in an inconvenient forum.  The parties may enforce judgments of those courts in any appropriate forum.
+The governing law on the accompanying standard form certificate will govern all aspects of this agreement.  The parties shall bring legal proceedings related to this agreement only in the national and any national-subdivision courts located in the forum for disputes on the accompanying standard form certificate, or if none is specified, within the jurisdiction whose law governs this agreement.  The parties consent to the exclusive jurisdiction of those courts and waive any objection that legal proceedings brought there are brought in an inconvenient forum.  The parties may enforce judgments of those courts in any appropriate forum.
 
 ## Legal Relationship
 
