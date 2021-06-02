@@ -67,7 +67,7 @@ critique: build/nda.json | $(CRITIQUE) $(JSON)
 clean:
 	rm -rf build
 
-DOCKER_TAG=waypoint-one-way-build
+DOCKER_TAG=waypoint-nda-build
 
 docker:
 	bash -c "trap 'docker rm $(DOCKER_TAG)' EXIT; \
