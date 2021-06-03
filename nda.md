@@ -1,3 +1,7 @@
+---
+title: The {{{brand}}} NDA {{{version}}}
+---
+
 # Mutual Nondisclosure
 
 **Disclosing Party** describes each party with respect to _Confidential Information_ it discloses to the other party.  **Receiving Party** describes each party with respect to _Confidential Information_ it receives from the other party.
