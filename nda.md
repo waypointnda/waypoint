@@ -105,7 +105,7 @@ Subject to [Records Policy](#records-policy), when this agreement terminates, _R
 
 ## Records Policy
 
-When this agreement terminates, if _Receiving Party_ has a written records retention policy for the creation and scheduled destruction of archival or backup records, and only specialized personnel can routinely access those records, then _Receiving Party_ may retain materials embodying _Confidential Information_ until destroyed under that policy.
+When this agreement terminates, if _Receiving Party_ has a written records retention policy for the creation and scheduled destruction of archival or backup records, and only specialized _Personnel_ can routinely access those records, then _Receiving Party_ may retain materials embodying _Confidential Information_ until destroyed under that policy.
 
 ## Comply with Export Controls
 
