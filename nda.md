@@ -55,7 +55,7 @@ _Receiving Party_ may disclose _Confidential Information_ to the following perso
 
   - have a need to know the _Confidential Information_ to advance the _Purpose_; and
 
-  -  have entered written confidentiality agreements with _Receiving Party_ that impose confidentiality obligations affording as much or more protection as those of this agreement that apply to the _Confidential Information_; and
+  - have entered into written confidentiality agreements with _Receiving Party_ that impose confidentiality obligations affording as much or more protection as those of this agreement that apply to the _Confidential Information_; and
 
 - legal and financial advisers providing services to _Receiving Party_ under confidentiality obligations imposed by law or professional rules (**Advisers**).
 
@@ -123,9 +123,61 @@ Both parties shall comply with export and reexport laws with respect to _Confide
 
 # Mergers and Acquisitions
 
-The terms of [Mergers and Acquisitions](#mergers-and-acquisitions) apply only if the _Purpose_ relates to a proposed or potential merger or acquisition of their corporate affiliates.
+These terms apply only if the _Purpose_ relates to a proposed or potential merger or acquisition (a **Potential Transaction**) of one of the parties, their _Affiliate_, or their line of business (a **Target**):
 
-TODO
+## No Unauthorized Market Due Diligence
+
+Neither party shall directly or indirectly communicate with any executive or other employee of a _Target_, or any of its customers or suppliers, concerning the _Potential Transaction_, or seek any information in connection with the _Potential Transaction_ from them, without the prior, signed, written consent of the other party.
+
+## No Disclosure to Funding Sources
+
+[Permitted Disclosure](#permitted-disclosure) does not permit disclosure of _Confidential Information_ to any source of debt or equity financing, _Affiliate_, limited partner, member, stockholder, or other investor, unless and until:
+
+- the _Potential Transaction_ closes;
+
+- the recipient has an interest in the _Potential Transaction_; and
+
+<!-- Note: The following language parallels permission for disclosure to Personnel. -->
+
+- the recipient has entered into written confidentiality agreements with _Receiving Party_ that impose confidentiality obligations affording as much or more protection as those of this agreement that apply to the _Confidential Information_.
+
+## Nonsolicitation
+
+### Targeted Solicitation
+
+Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), until one year after the date this agreement terminates, neither party shall solicit to hire or actually hire any of the following without the prior, signed, written consent of the other party:
+
+- any executive employed by a _Target_; or
+
+- any other employee or contractor of a _Target_ who they became aware of, or about whose performance they learn, in connection with a _Potential Transaction_.
+
+### Former Personnel
+
+A party may solicit or hire _Target_ personnel after their working relationships with the other party or its _Affiliate_ terminate.
+
+### General Solicitation
+
+This agreement does not restrict either party from hiring anyone who responds to an advertisement or announcement that was not directed specifically at personnel of the other party, or any individual introduced by a recruitment firm that did not specifically target personnel of the other party.
+
+### Purpose of Nonsolicitation
+
+[Nonsolicitation](#nonsolicitation) gives each party protection against misuse of _Confidential Information_ that couldn't be accomplished in any less restrictive way.
+
+## No Exclusive Financing
+
+Neither party shall, directly or through others, enter into any oral or written agreement, arrangement, or understanding, or take part in discussions reasonably expected to produce one, regarding the engagement of a debt or equity financing source:
+
+- on an exclusive basis; or
+
+- in any other way that would prohibit or impede anyone else from getting debt financing from the financing source for a deal with the other party.
+
+## Definition of Affiliate
+
+**Affiliate** means any legal entity that has control over, is under the control of, or is under common control of another entity, where control means ownership of substantially all the assets of an entity or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+
+## Right to Assign
+
+Either party may assign this agreement as a whole, without the other party's consent, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets.
 
 # Clarifications
 
@@ -135,7 +187,7 @@ No terms of this agreement obligate _Disclosing Party_ to disclose any _Confiden
 
 ## No Obligation to Do Business
 
-No terms of this agreement obligate either party to enter any business relationship or agreement, related to the _Purpose_ or otherwise.
+No terms of this agreement obligate either party to enter into any business relationship or agreement, related to the _Purpose_ or otherwise.
 
 ## No License
 
@@ -187,7 +239,7 @@ Obligations under [Confidentiality Obligations](#confidentiality-obligations) fo
 
 ## No Assignment or Delegation
 
-Neither party may assign any right or delegate any obligation under this agreement, voluntarily or by operation of law, without the prior, signed, written consent of the other party.  Any attempt to assign or delegate without consent will have no legal effect.
+Except under [Right to Assign](#right-to-assign), if it applies, neither party may assign any right or delegate any obligation under this agreement, voluntarily or by operation of law, without the prior, signed, written consent of the other party.  Any attempt to assign or delegate without consent will have no legal effect.
 
 ## Dispute Resolution
 
