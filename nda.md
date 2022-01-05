@@ -121,6 +121,12 @@ Both parties shall comply with export and reexport laws with respect to _Confide
 
 - Breach of _Receiving Party_ obligations by _Receiving Party_ _Personnel_ or _Receiving Party_ _Advisers_ will be deemed breach of this agreement by _Receiving Party_ itself.
 
+# Mergers and Acquisitions
+
+The terms of [Mergers and Acquisitions](#mergers-and-acquisitions) apply only if the _Purpose_ relates to a proposed or potential merger or acquisition of their corporate affiliates.
+
+TODO
+
 # Clarifications
 
 ## No Obligation to Disclose
