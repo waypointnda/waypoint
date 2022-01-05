@@ -165,7 +165,7 @@ This agreement does not restrict either party from hiring anyone who responds to
 
 ## No Exclusive Financing
 
-Neither party shall, directly or through others, enter into any oral or written agreement, arrangement, or understanding, or take part in discussions reasonably expected to produce one, regarding the engagement of a debt or equity financing source:
+Neither party shall, directly or through others, discuss or enter into any oral or written agreement, arrangement, or understanding for debt or equity financing of a _Transaction_:
 
 - on an exclusive basis; or
 
