@@ -123,11 +123,11 @@ Both parties shall comply with export and reexport laws with respect to _Confide
 
 # Mergers and Acquisitions
 
-These terms apply only if the _Purpose_ relates to a proposed or potential merger or acquisition (a **Potential Transaction**) of one of the parties, their _Affiliate_, or their line of business (a **Target**):
+These terms apply only if the _Purpose_ relates to a proposed or potential merger or acquisition of one of the parties, their _Affiliate_, or their line of business (a **Potential Transaction**):
 
 ## No Unauthorized Market Due Diligence
 
-Neither party shall directly or indirectly communicate with any executive or other employee of a _Target_, or any of its customers or suppliers, concerning the _Potential Transaction_, or seek any information in connection with the _Potential Transaction_ from them, without the prior, signed, written consent of the other party.
+Neither party shall directly or indirectly communicate with any executive or other employee of the other party, or any of its customers or suppliers, concerning the _Potential Transaction_, or seek any information in connection with the _Potential Transaction_ from them, without the prior, signed, written consent of the other party.
 
 ## No Disclosure to Funding Sources
 
@@ -147,13 +147,13 @@ Neither party shall directly or indirectly communicate with any executive or oth
 
 Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), until one year after the date this agreement terminates, neither party shall solicit to hire or actually hire any of the following without the prior, signed, written consent of the other party:
 
-- any executive employed by a _Target_; or
+- any executive employed by the other party or its _Affiliate_; or
 
-- any other employee or contractor of a _Target_ who they became aware of, or about whose performance they learn, in connection with a _Potential Transaction_.
+- any other employee or contractor of the other party of its _Affiliate_ who they became aware of, or about whose performance they learn, in connection with a _Potential Transaction_.
 
 ### Former Personnel
 
-A party may solicit or hire _Target_ personnel after their working relationships with the other party or its _Affiliate_ terminate.
+A party may solicit or hire personnel after their working relationships with the other party or its _Affiliate_ terminate.
 
 ### General Solicitation
 
