@@ -139,7 +139,7 @@ Neither party shall directly or indirectly communicate with any executive or oth
 
 <!-- Note: The following language parallels permission for disclosure to Personnel. -->
 
-- the recipient has entered into written confidentiality agreements with _Receiving Party_ that impose confidentiality obligations affording as much or more protection as those of this agreement that apply to the _Confidential Information_.
+- the recipient has entered into a written confidentiality agreement with _Receiving Party_ that imposes confidentiality obligations affording as much or more protection as those of this agreement that apply to the _Confidential Information_.
 
 ## Nonsolicitation
 
