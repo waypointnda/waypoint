@@ -121,6 +121,62 @@ Both parties shall comply with export and reexport laws with respect to _Confide
 
 - Breach of _Receiving Party_ obligations by _Receiving Party_ _Personnel_ or _Receiving Party_ _Advisers_ will be deemed breach of this agreement by _Receiving Party_ itself.
 
+# Clarifications
+
+## No Obligation to Disclose
+
+No terms of this agreement obligate _Disclosing Party_ to disclose any _Confidential Information_.
+
+## No Obligation to Do Business
+
+No terms of this agreement obligate either party to enter into any business relationship or agreement, related to the _Purpose_ or otherwise.
+
+## No License
+
+No terms of this agreement grant any license for any patent, trademark, copyright, or other intellectual property.
+
+## No Warranty
+
+_Disclosing Party_ makes no warranty that _Confidential Information_ will be complete or accurate.
+
+# Defend Trade Secrets Act Notice
+
+If this agreement is governed by United States law:
+
+- An individual shall not be held criminally or civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that:
+
+  - is made:
+
+    - in confidence to a Federal, State, or local government official, either directly or indirectly, or to an attorney; and
+
+    - solely for the purpose of reporting or investigating a suspected violation of law; or
+
+  - is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal.
+
+- An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual:
+
+  - files any document containing the trade secret under seal; and
+
+  - does not disclose the trade secret, except pursuant to court order.
+
+# Term
+
+## Expiration
+
+This agreement will terminate automatically after the stated term, or if none is stated, after one year.
+
+## Termination by Notice
+
+Either party may terminate this agreement early by thirty calendar days' prior written notice to the other party.
+
+## Survival
+
+Obligations under [Confidentiality Obligations](#confidentiality-obligations) for _Confidential Information_ disclosed during the term survive the term of this agreement as follows:
+
+- Obligations for _Confidential Information_ that _Receiving Party_ knew or reasonably should have known constituted a trade secret survive as long as the _Confidential Information_ remains a trade secret.
+
+- Obligations for other _Confidential Information_ survive for five calendar years from the date of termination.
+
 # Mergers and Acquisitions
 
 These terms apply only if the _Purpose_ relates to a proposed or potential merger or acquisition of one of the parties, their _Affiliate_, or their line of business (a **Potential Transaction**):
@@ -178,62 +234,6 @@ Neither party shall, directly or through others, discuss or enter into any oral 
 ## Right to Assign
 
 Either party may assign this agreement as a whole, without the other party's consent, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets.
-
-# Clarifications
-
-## No Obligation to Disclose
-
-No terms of this agreement obligate _Disclosing Party_ to disclose any _Confidential Information_.
-
-## No Obligation to Do Business
-
-No terms of this agreement obligate either party to enter into any business relationship or agreement, related to the _Purpose_ or otherwise.
-
-## No License
-
-No terms of this agreement grant any license for any patent, trademark, copyright, or other intellectual property.
-
-## No Warranty
-
-_Disclosing Party_ makes no warranty that _Confidential Information_ will be complete or accurate.
-
-# Defend Trade Secrets Act Notice
-
-If this agreement is governed by United States law:
-
-- An individual shall not be held criminally or civilly liable under any Federal or State trade secret law for the disclosure of a trade secret that:
-
-  - is made:
-
-    - in confidence to a Federal, State, or local government official, either directly or indirectly, or to an attorney; and
-
-    - solely for the purpose of reporting or investigating a suspected violation of law; or
-
-  - is made in a complaint or other document filed in a lawsuit or other proceeding, if such filing is made under seal.
-
-- An individual who files a lawsuit for retaliation by an employer for reporting a suspected violation of law may disclose the trade secret to the attorney of the individual and use the trade secret information in the court proceeding, if the individual:
-
-  - files any document containing the trade secret under seal; and
-
-  - does not disclose the trade secret, except pursuant to court order.
-
-# Term
-
-## Expiration
-
-This agreement will terminate automatically after the stated term, or if none is stated, after one year.
-
-## Termination by Notice
-
-Either party may terminate this agreement early by thirty calendar days' prior written notice to the other party.
-
-## Survival
-
-Obligations under [Confidentiality Obligations](#confidentiality-obligations) for _Confidential Information_ disclosed during the term survive the term of this agreement as follows:
-
-- Obligations for _Confidential Information_ that _Receiving Party_ knew or reasonably should have known constituted a trade secret survive as long as the _Confidential Information_ remains a trade secret.
-
-- Obligations for other _Confidential Information_ survive for five calendar years from the date of termination.
 
 # General Contract Terms
 
