@@ -225,7 +225,7 @@ Neither party shall, directly or through others, discuss or enter into any oral 
 
 - on an exclusive basis; or
 
-- in any other way that would prohibit or impede anyone else from getting debt financing from the financing source for a deal with the other party.
+- in any other way that would prohibit or be reasonably expected to prevent any other potential acquirer from getting debt or equity financing from that financing source.
 
 ## Definition of Affiliate
 
