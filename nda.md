@@ -201,7 +201,7 @@ Neither party shall directly or indirectly communicate about a _Potential Transa
 
 ### Targeted Solicitation
 
-Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), during discussions of the _Potential Transaction__ and for one year after the date of any principal agreement for the _Potential Transaction_, neither party shall solicit to hire or actually hire any of the following without the prior, signed, written consent of the other party:
+Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), during discussions of the _Potential Transaction__ and for one year after the date of any principal agreement for the _Potential Transaction_, or as long as the law allows, neither party shall solicit to hire or actually hire any of the following without the prior, signed, written consent of the other party:
 
 - any executive employed by the other party or its _Affiliate_; or
 
