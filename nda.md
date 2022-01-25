@@ -219,10 +219,6 @@ A party may solicit personnel after their working relationships with the other p
 
 This agreement does not restrict either party from hiring anyone who responds to an advertisement or announcement that was not specifically directed at personnel of the other party, or any individual introduced by a recruitment firm that did not specifically target personnel of the other party.
 
-### Purpose of Nonsolicitation
-
-[Nonsolicitation](#nonsolicitation) gives each party protection against misuse of _Confidential Information_ that couldn't be accomplished in any less restrictive way.
-
 ## No Exclusive Financing
 
 Neither party shall, directly or through others, discuss or enter into any oral or written agreement, arrangement, or understanding for debt or equity financing of a _Transaction_:
