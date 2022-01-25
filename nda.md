@@ -51,7 +51,7 @@ Except as described in [Permitted Disclosure](#permitted-disclosure) or as requi
 
 _Receiving Party_ may disclose _Confidential Information_ to the following personnel:
 
-- if _Receiving Party_ is a legal entity, employees, independent contractors, officers, directors, and agents of _Receiving Party_ (**Personnel**) who:
+- if _Receiving Party_ is a legal entity, employees, natural-person independent contractors, officers, directors, and agents of _Receiving Party_ (**Personnel**) who:
 
   - have a need to know the _Confidential Information_ to advance the _Purpose_; and
 
@@ -203,9 +203,13 @@ Neither party shall directly or indirectly communicate about a _Potential Transa
 
 Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), during discussions of the _Potential Transaction__ and for one year after the date of any principal agreement for the _Potential Transaction_, or as long as the law allows, neither party shall solicit to hire any of the following without the prior, signed, written consent of the other party:
 
-- any executive employed by the other party or its _Affiliate_; or
+- any executive employed by the other party or its _Affiliate_;
 
-- any other employee or contractor of the other party of its _Affiliate_ who they became aware of, or about whose performance they learn, in connection with a _Potential Transaction_.
+- any other employee of the other party or its _Affiliate_; or
+
+- any natural-person independent contractor providing services exclusively to the other party or its _Affiliate_
+
+who they became aware of, or about whose performance they learn, in connection with a _Potential Transaction_.
 
 ### Former Personnel
 
