@@ -213,7 +213,7 @@ who they became aware of, or about whose performance they learn, in connection w
 
 ### Former Personnel
 
-A party may solicit or hire personnel after their working relationships with the other party or its _Affiliate_ have ended.
+A party may solicit personnel after their working relationships with the other party or its _Affiliate_ have ended, so long as their working relationships did not end with the soliciting party's encouragement.
 
 ### General Solicitation
 
