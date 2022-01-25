@@ -183,7 +183,7 @@ These terms apply only if the _Purpose_ relates to a potential merger or acquisi
 
 ## No Unauthorized Market Due Diligence
 
-In the case of a potential acquisition, the side of the potential acquirer shall not directly or indirectly communicate about the potential acquisition with any executive, employee, customer, or supplier of the other party, or seek any information in connection with the potential acquisition from them, without the prior, signed, written consent of the other party.  The case of a potential merger where there is no clear acquirer or target, neither side shall do so.
+In the case of a potential acquisition, the side of the potential acquirer shall not directly or indirectly communicate about the potential acquisition with any executive, employee, customer, or supplier of the other party, or seek any information in connection with the potential acquisition from them, without the prior, written consent of the other party.  The case of a potential merger where there is no clear acquirer or target, neither side shall do so.
 
 ## No Disclosure to Funding Sources
 
@@ -201,7 +201,7 @@ In the case of a potential acquisition, the side of the potential acquirer shall
 
 ### Targeted Solicitation
 
-Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), during discussions of the potential merger or acquisition and for one year after the date of any principal agreement entered into for the transaction, or as long as the law allows, neither party shall solicit to hire any of the following without the prior, signed, written consent of the other party:
+Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), during discussions of the potential merger or acquisition and for one year after the date of any principal agreement entered into for the transaction, or as long as the law allows, neither party shall solicit to hire any of the following without the prior, written consent of the other party:
 
 - any executive employed by the other party or its _Affiliate_;
 
