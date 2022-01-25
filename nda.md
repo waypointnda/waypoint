@@ -179,19 +179,19 @@ Obligations under [Confidentiality Obligations](#confidentiality-obligations) fo
 
 # Mergers and Acquisitions
 
-These terms apply only if the _Purpose_ relates to a potential merger or acquisition of one of the parties, their parents, or their subsidiaries, all or substantially all of one of their assets, or one of their lines of business (a **Potential Transaction**):
+These terms apply only if the _Purpose_ relates to a potential merger or acquisition of one of the parties, their parents, or their subsidiaries, all or substantially all of one of their assets, or one of their lines of business:
 
 ## No Unauthorized Market Due Diligence
 
-Neither party shall directly or indirectly communicate about a _Potential Transaction_ with any executive, employee, customer, or supplier of the other party, or seek any information in connection with the _Potential Transaction_ from them, without the prior, signed, written consent of the other party.
+In the case of a potential acquisition, the side of the potential acquirer shall not directly or indirectly communicate about the potential acquisition with any executive, employee, customer, or supplier of the other party, or seek any information in connection with the potential acquisition from them, without the prior, signed, written consent of the other party.
 
 ## No Disclosure to Funding Sources
 
 [Permitted Disclosure](#permitted-disclosure) does not permit disclosure of _Confidential Information_ to any source of debt or equity financing, _Affiliate_, limited partner, member, stockholder, or other investor, unless and until:
 
-- the _Potential Transaction_ closes;
+- the potential merger or acquisition closes;
 
-- the recipient has an interest in the _Potential Transaction_; and
+- the recipient has an interest in the potential merger or acquisition; and
 
 <!-- Note: The following language parallels permission for disclosure to Personnel. -->
 
@@ -201,7 +201,7 @@ Neither party shall directly or indirectly communicate about a _Potential Transa
 
 ### Targeted Solicitation
 
-Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), during discussions of the _Potential Transaction__ and for one year after the date of any principal agreement for the _Potential Transaction_, or as long as the law allows, neither party shall solicit to hire any of the following without the prior, signed, written consent of the other party:
+Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), during discussions of the potential merger or acquisition and for one year after the date of any principal agreement entered into for the transaction, or as long as the law allows, neither party shall solicit to hire any of the following without the prior, signed, written consent of the other party:
 
 - any executive employed by the other party or its _Affiliate_;
 
@@ -209,7 +209,7 @@ Except as described in [Former Personnel](#former-personnel) or [General Solicit
 
 - any natural-person independent contractor providing services exclusively to the other party or its _Affiliate_
 
-who they became aware of, or about whose performance they learn, in connection with a _Potential Transaction_.
+who they became aware of, or about whose performance they learn, in connection with the potential merger or acquisition.
 
 ### Former Personnel
 
