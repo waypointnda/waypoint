@@ -183,7 +183,7 @@ These terms apply only if the _Purpose_ relates to a potential merger or acquisi
 
 ## No Unauthorized Market Due Diligence
 
-In the case of a potential acquisition, the side of the potential acquirer shall not directly or indirectly communicate about the potential acquisition with any executive, employee, customer, or supplier of the other party, or seek any information in connection with the potential acquisition from them, without the prior, signed, written consent of the other party.  The case of a potential merger of equals, neither side shall do so.
+In the case of a potential acquisition, the side of the potential acquirer shall not directly or indirectly communicate about the potential acquisition with any executive, employee, customer, or supplier of the other party, or seek any information in connection with the potential acquisition from them, without the prior, signed, written consent of the other party.  The case of a potential merger where there is no clear acquirer or target, neither side shall do so.
 
 ## No Disclosure to Funding Sources
 
