@@ -185,17 +185,9 @@ These terms apply only if the _Purpose_ relates to a potential merger or acquisi
 
 If the _Potential Transaction_ is an acquisition, the buying side shall not directly or through others communicate about the _Potential Transaction_ with any executive, employee, customer, vendor, or supplier of the other party, or seek any information in connection with the _Potential Transaction_ from them, without prior, written consent.  If the _Potential Transaction_ is a "merger of equals" where neither side is clearly target or acquirer, neither party shall do so.
 
-## No Disclosure to Funding Sources
+## Disclosure to Funding Sources
 
-[Permitted Disclosure](#permitted-disclosure) does not permit disclosure of _Confidential Information_ to any source of debt or equity financing, _Affiliate_, limited partner, member, stockholder, or other investor, unless and until:
-
-- the _Potential Transaction_ closes;
-
-- the recipient has an interest in the _Potential Transaction_; and
-
-<!-- Note: The following language parallels permission for disclosure to Personnel. -->
-
-- the recipient has entered into a written confidentiality agreement with _Receiving Party_ that imposes confidentiality obligations affording as much or more protection as those of this agreement that apply to the _Confidential Information_.
+_Receiving Party_ may disclose _Confidential Information_ to a source of debt or equity financing for the _Potential Transaction_, an _Affiliate_, a limited partner, a member, a stockholder, or other investor.  Breach of _Receiving Party_ obligations by such recipients will be deemed breach of this agreement by _Receiving Party_ itself.
 
 ## Nonsolicitation
 
