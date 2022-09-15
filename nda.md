@@ -179,7 +179,7 @@ Obligations under [Confidentiality Obligations](#confidentiality-obligations) fo
 
 # Mergers and Acquisitions
 
-These terms apply only if the _Purpose_ relates to a potential merger or acquisition of one of the parties, their parents or subsidiaries, substantially all of their assets, or one of their lines of business:
+These terms apply only if the _Purpose_ relates to a potential merger or acquisition of one of the parties, their parents or subsidiaries, substantially all of their assets, or their line of business:
 
 ## No Unauthorized Market Due Diligence
 
