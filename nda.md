@@ -203,7 +203,7 @@ Except as described in [Former Personnel](#former-personnel) or [General Solicit
 
 ### Former Personnel
 
-A party may solicit or hire personnel after their working relationships with the other party or its _Affiliate_ have ended.
+A party may solicit or hire personnel after their working relationships with the other party or its _Affiliate_ have ended, so long as the relationship did not end at the encouragement of the soliciting or hiring party.
 
 ### General Solicitation
 
