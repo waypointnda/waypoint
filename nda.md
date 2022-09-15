@@ -219,7 +219,7 @@ Neither party shall, directly or through others, enter into any agreement for de
 
 ## Right to Assign
 
-Either party may assign this agreement as a whole, without the other party's consent, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets.
+Either party may assign this agreement as a whole in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets.
 
 # General Contract Terms
 
