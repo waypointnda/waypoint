@@ -211,7 +211,7 @@ This agreement does not restrict either party from hiring anyone who responds to
 
 ## No Exclusive Financing
 
-Neither party shall, directly or through others, enter into any agreement for financing of the potential merger or acquisition on terms that would prohibit or be reasonably expected to impede any other potential acquirer from securing financing from that financing source.
+Neither party shall, directly or through others, enter into any agreement for financing of the potential merger or acquisition on terms that would prohibit or be reasonably expected to impede any other potential acquirer from securing financing from that source.
 
 ## Definition of Affiliate
 
