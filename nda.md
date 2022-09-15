@@ -193,7 +193,7 @@ _Receiving Party_ may disclose _Confidential Information_ to a source of debt or
 
 ### Targeted Solicitation
 
-Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), until one year after the date this agreement terminates, neither party shall solicit to hire or actually hire any of the following without the prior, signed, written consent of the other party:
+Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), until one year after the date of this agreement, and to the fullest extent permitted by law, neither party shall solicit to hire or actually hire any of the following without the prior, signed, written consent of the other party:
 
 - any executive employed by the other party or its _Affiliate_; or
 
