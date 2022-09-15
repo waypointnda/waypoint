@@ -179,21 +179,21 @@ Obligations under [Confidentiality Obligations](#confidentiality-obligations) fo
 
 # Mergers and Acquisitions
 
-These terms apply only if the _Purpose_ relates to a potential merger or acquisition of one of the parties, their parents or subsidiaries, substantially all of their assets, or one of their lines of business (the **Potential Transaction**):
+These terms apply only if the _Purpose_ relates to a potential merger or acquisition of one of the parties, their parents or subsidiaries, substantially all of their assets, or one of their lines of business:
 
 ## No Unauthorized Market Due Diligence
 
-If the _Potential Transaction_ is an acquisition, the buying side shall not directly or through others communicate about the _Potential Transaction_ with any executive, employee, customer, vendor, or supplier of the other party, or seek any information in connection with the _Potential Transaction_ from them, without prior, written consent.  If the _Potential Transaction_ is a "merger of equals" where neither side is clearly target or acquirer, neither party shall do so.
+If the potential merger or acquisition is an acquisition, the buying side shall not directly or through others communicate about the potential merger or acquisition with any executive, employee, customer, vendor, or supplier of the other party, or seek any information in connection with the potential merger or acquisition from them, without prior, written consent.  If the potential merger or acquisition is a "merger of equals" where neither side is clearly target or acquirer, neither party shall do so.
 
 ## Disclosure to Funding Sources
 
-_Receiving Party_ may disclose _Confidential Information_ to a source of debt or equity financing for the _Potential Transaction_, an _Affiliate_, a limited partner, a member, a stockholder, or other investor.  Breach of _Receiving Party_ obligations by such recipients will be deemed breach of this agreement by _Receiving Party_ itself.
+_Receiving Party_ may disclose _Confidential Information_ to a source of debt or equity financing for the potential merger or acquisition, an _Affiliate_, a limited partner, a member, a stockholder, or other investor.  Breach of _Receiving Party_ obligations by such recipients will be deemed breach of this agreement by _Receiving Party_ itself.
 
 ## Nonsolicitation
 
 ### Targeted Solicitation
 
-Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), until one year after the date of this agreement, and to the fullest extent permitted by law, neither party shall solicit to hire or actually hire any of the following personnel that they become aware or, or about whose performance they learn, in connection with the _Potential Transaction_, without the prior, signed, written consent of the other party:
+Except as described in [Former Personnel](#former-personnel) or [General Solicitation](#general-solicitation), until one year after the date of this agreement, and to the fullest extent permitted by law, neither party shall solicit to hire or actually hire any of the following personnel that they become aware or, or about whose performance they learn, in connection with the potential merger or acquisition, without the prior, signed, written consent of the other party:
 
 - any executive employed by the other party or its _Affiliate_;
 
@@ -211,7 +211,7 @@ This agreement does not restrict either party from hiring anyone who responds to
 
 ## No Exclusive Financing
 
-Neither party shall, directly or through others, enter into any agreement for debt or equity financing of the _Potential Transaction_ on terms that would prohibit or be reasonably expected to impede any other potential acquirer from securing financing from that financing source.
+Neither party shall, directly or through others, enter into any agreement for debt or equity financing of the potential merger or acquisition on terms that would prohibit or be reasonably expected to impede any other potential acquirer from securing financing from that financing source.
 
 ## Definition of Affiliate
 
