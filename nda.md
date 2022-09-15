@@ -207,7 +207,7 @@ A party may solicit or hire personnel after their working relationships with the
 
 ### General Solicitation
 
-This agreement does not restrict either party from hiring anyone who responds to an advertisement or announcement that was not specifically directed at personnel of the other party, or any individual introduced by a recruitment firm that did not specifically target personnel of the other party.
+This agreement does not restrict either party from hiring anyone who responds to an advertisement or announcement that was not specifically directed at personnel of the other party of its _Affiliate_, or any individual introduced by a recruitment firm that did not specifically target personnel of the other party or its _Affiliate_.
 
 ### Purpose of Nonsolicitation
 
