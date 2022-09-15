@@ -179,11 +179,11 @@ Obligations under [Confidentiality Obligations](#confidentiality-obligations) fo
 
 # Mergers and Acquisitions
 
-These terms apply only if the _Purpose_ relates to a potential merger or acquisition of one of the parties, their parents or subsidiaries, substantially all of their assets, or one of their lines of business (a **Potential Transaction**):
+These terms apply only if the _Purpose_ relates to a potential merger or acquisition of one of the parties, their parents or subsidiaries, substantially all of their assets, or one of their lines of business (the **Potential Transaction**):
 
 ## No Unauthorized Market Due Diligence
 
-Neither party shall directly or indirectly communicate about a _Potential Transaction_ with any executive, employee, customer, or supplier of the other party, or seek any information in connection with the _Potential Transaction_ from them, without the prior, written consent of the other party.
+Neither party shall directly or indirectly communicate about the _Potential Transaction_ with any executive, employee, customer, or supplier of the other party, or seek any information in connection with the _Potential Transaction_ from them, without the prior, written consent of the other party.
 
 ## No Disclosure to Funding Sources
 
@@ -205,7 +205,7 @@ Except as described in [Former Personnel](#former-personnel) or [General Solicit
 
 - any executive employed by the other party or its _Affiliate_; or
 
-- any other employee or contractor of the other party of its _Affiliate_ who they became aware of, or about whose performance they learn, in connection with a _Potential Transaction_.
+- any other employee or contractor of the other party of its _Affiliate_ who they became aware of, or about whose performance they learn, in connection with the _Potential Transaction_.
 
 ### Former Personnel
 
@@ -221,7 +221,7 @@ This agreement does not restrict either party from hiring anyone who responds to
 
 ## No Exclusive Financing
 
-Neither party shall, directly or through others, discuss or enter into any oral or written agreement, arrangement, or understanding for debt or equity financing of a _Transaction_:
+Neither party shall, directly or through others, discuss or enter into any oral or written agreement, arrangement, or understanding for debt or equity financing of the _Transaction_:
 
 - on an exclusive basis; or
 
