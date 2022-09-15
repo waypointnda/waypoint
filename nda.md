@@ -187,7 +187,7 @@ If the potential merger or acquisition is an acquisition, the buying side shall 
 
 ## Disclosure to Funding Sources
 
-_Receiving Party_ may disclose _Confidential Information_ to a source of debt or equity financing for the potential merger or acquisition, an _Affiliate_, a limited partner, a member, a stockholder, or other investor.  Breach of _Receiving Party_ obligations by such recipients will be deemed breach of this agreement by _Receiving Party_ itself.
+_Receiving Party_ may disclose _Confidential Information_ to a source of financing for the potential merger or acquisition, an _Affiliate_, a limited partner, a member, a stockholder, or other investor.  Breach of _Receiving Party_ obligations by such recipients will be deemed breach of this agreement by _Receiving Party_ itself.
 
 ## Nonsolicitation
 
@@ -211,7 +211,7 @@ This agreement does not restrict either party from hiring anyone who responds to
 
 ## No Exclusive Financing
 
-Neither party shall, directly or through others, enter into any agreement for debt or equity financing of the potential merger or acquisition on terms that would prohibit or be reasonably expected to impede any other potential acquirer from securing financing from that financing source.
+Neither party shall, directly or through others, enter into any agreement for financing of the potential merger or acquisition on terms that would prohibit or be reasonably expected to impede any other potential acquirer from securing financing from that financing source.
 
 ## Definition of Affiliate
 
