@@ -197,7 +197,7 @@ Except as described in [Former Personnel](#former-personnel) or [General Solicit
 
 - any executive employed by the other party or its _Affiliate_; or
 
-- any other employee or contractor of the other party of its _Affiliate_ who they became aware of, or about whose performance they learn, in connection with the _Potential Transaction_.
+- any other employee of the other party of its _Affiliate_ who they became aware of, or about whose performance they learn, in connection with the _Potential Transaction_.
 
 ### Former Personnel
 
