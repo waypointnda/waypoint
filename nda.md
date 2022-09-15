@@ -183,7 +183,7 @@ These terms apply only if the _Purpose_ relates to a potential merger or acquisi
 
 ## No Unauthorized Market Due Diligence
 
-Neither party shall directly or indirectly communicate about the _Potential Transaction_ with any executive, employee, customer, or supplier of the other party, or seek any information in connection with the _Potential Transaction_ from them, without the prior, written consent of the other party.
+If the _Potential Transaction_ involves one entity buying another, the party on the buying side shall not directly or indirectly communicate about the _Potential Transaction_ with any executive, employee, customer, or supplier of the target, or seek any information in connection with the _Potential Transaction_ from them, (**Conduct Market Due Diligence**) without the prior, written consent of the target.  If the _Potential Transaction_ instead involves consolidation as peers or equals, neither party shall _Conduct Market Due Diligence_ without the prior, written consent of the other.
 
 ## No Disclosure to Funding Sources
 
