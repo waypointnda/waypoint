@@ -51,7 +51,7 @@ Except as described in [Permitted Disclosure](#permitted-disclosure) or as requi
 
 _Receiving Party_ may disclose _Confidential Information_ to the following personnel:
 
-- if _Receiving Party_ is a legal entity, employees, independent contractors, officers, directors, and agents of _Receiving Party_ (**Personnel**) who:
+- if _Receiving Party_ is a legal entity, employees, natural-person independent contractors, officers, directors, and agents of _Receiving Party_ (**Personnel**) who:
 
   - have a need to know the _Confidential Information_ to advance the _Purpose_; and
 
