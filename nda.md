@@ -231,7 +231,7 @@ Either party may assign this agreement as a whole, without the other party's con
 
 ## No Assignment or Delegation
 
-Except under [Right to Assign](#right-to-assign), if it applies, neither party may assign any right or delegate any obligation under this agreement, voluntarily or by operation of law, without the prior, signed, written consent of the other party.  Any attempt to assign or delegate without consent will have no legal effect.
+Except under [Right to Assign](#right-to-assign), if it applies, neither party may assign any right or delegate any obligation under this agreement, voluntarily or by operation of law, without the prior, written consent of the other party.  Any attempt to assign or delegate without consent will have no legal effect.
 
 ## Dispute Resolution
 
