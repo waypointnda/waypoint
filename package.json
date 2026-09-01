@@ -5,7 +5,7 @@
     "commonform-critique": "^1.0.3",
     "commonform-docx": "^10.1.0",
     "commonform-html": "^7.0.0",
-    "commonform-lint": "^3.0.2",
+    "commonform-lint": "^5.0.0",
     "json": "^11.0.0",
     "mustache": "^4.2.0"
   }
