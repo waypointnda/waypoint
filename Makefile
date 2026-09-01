@@ -13,19 +13,19 @@ VARIANTS=long short
 
 all: $(foreach variant,$(VARIANTS),$(foreach paper,$(PAPERS),$(foreach format,$(FORMATS),$(addsuffix -$(variant)-$(paper).$(format),build/nda)))) build/nda.html
 
-DOCX_FLAGS= --styles styles.json -n outline --left-align-title --indent-margins --smartify
+DOCX_FLAGS= --styles styles.json --number outline --left-align-title --indent-margins --smart
 
 build/terms-letter.docx: build/nda.json styles.json | build $(DOCX) $(JSON)
-	$(JSON) form < $< | $(DOCX) $(DOCX_FLAGS) --title "$(shell $(JSON) frontMatter.title < $<)" --edition "$(shell $(JSON) frontMatter.edition < $<)" > $@ /dev/stdin
+	$(JSON) form < $< | $(DOCX) $(DOCX_FLAGS) --title "$(shell $(JSON) frontMatter.title < $<)" --form-version "$(shell $(JSON) frontMatter.version < $<)" /dev/stdin > $@
 
 build/terms-a4.docx: build/nda.json styles.json | build $(DOCX) $(JSON)
-	$(JSON) form < $< | $(DOCX) --a4 $(DOCX_FLAGS) --title "$(shell $(JSON) frontMatter.title < $<)" --edition "$(shell $(JSON) frontMatter.edition < $<)" > $@ /dev/stdin
+	$(JSON) form < $< | $(DOCX) --a4 $(DOCX_FLAGS) --title "$(shell $(JSON) frontMatter.title < $<)" --form-version "$(shell $(JSON) frontMatter.version < $<)" /dev/stdin > $@
 
 build/nda-long-%.docx: build/certificate-%.docx build/terms-%.docx signatures-%.docx
-	docxcompose $^ -o $@
+	./docxconcat $^ $@
 
 build/nda-short-%.docx: build/springboard-%.docx signatures-%.docx
-	docxcompose $^ -o $@
+	./docxconcat $^ $@
 
 build/certificate-%.docx: certificate-%.docx view.json docxreplace | build
 	cp $< $@
@@ -39,7 +39,7 @@ build/%.json: %.md view.json | build $(MUSTACHE) $(COMMONMARK)
 	$(MUSTACHE) view.json  $< | $(COMMONMARK) parse > $@
 
 build/%.html: build/%.json | $(HTML)
-	$(JSON) form < $< | $(HTML) --html5 --lists --ids --smartify --title "$(shell $(JSON) frontMatter.title < $<)" --edition "$(shell $(JSON) frontMatter.edition < $<)" > $@
+	$(JSON) form < $< | $(HTML) --html5 --lists --ids --smartify --title "$(shell $(JSON) frontMatter.title < $<)" --version "$(shell $(JSON) frontMatter.version < $<)" > $@
 
 build/%.pdf: build/%.docx
 	soffice --headless --convert-to pdf --outdir build $<

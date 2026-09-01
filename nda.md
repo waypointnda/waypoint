@@ -1,6 +1,6 @@
 ---
 title: The {{{brand}}} NDA
-edition: {{{version}}}
+version: {{{version}}}
 ---
 
 # Mutual Nondisclosure

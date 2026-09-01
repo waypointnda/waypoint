@@ -1,0 +1,15 @@
+#!/usr/bin/env node
+import DocxMerger from 'docx-merger'
+import { readFileSync, writeFileSync } from 'node:fs'
+
+const inputFiles = Array.from(process.argv).slice(2, -1)
+const outputFile = process.argv[process.argv.length - 1]
+const inputContents = []
+for (const file of inputFiles) {
+  inputContents.push(readFileSync(file, 'binary'))
+}
+
+const docx = new DocxMerger({}, inputContents)
+docx.save('nodebuffer', data => {
+  writeFileSync(outputFile, data)
+})
