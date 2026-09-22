@@ -187,7 +187,7 @@ If the potential merger or acquisition is an acquisition, the buying side shall 
 
 ## Disclosure to Funding Sources
 
-_Receiving Party_ may disclose _Confidential Information_ to a source of financing for the potential merger or acquisition, an _Affiliate_, a limited partner, a member, a stockholder, or other investor.  Breach of _Receiving Party_ obligations by such recipients will be deemed breach of this agreement by _Receiving Party_ itself.
+_Receiving Party_ may disclose _Confidential Information_ to a source of financing for the potential merger or acquisition, an _Affiliate_, a limited partner, a member, a stockholder, or other investor, each with a need to know in connection with the potential merger or acquisition.  Breach of _Receiving Party_ obligations by such recipients will be deemed breach of this agreement by _Receiving Party_ itself.
 
 ## Nonsolicitation
 
